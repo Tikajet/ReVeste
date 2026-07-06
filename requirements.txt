@@ -1,0 +1,4 @@
+flask
+prisma
+python-dotenv
+gunicorn
